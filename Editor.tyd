@@ -7,7 +7,7 @@
 	RainAndSnow "Дождь со снегом"
 	PreviewColor "Предпросмотр цвета"
 	FloorType "Тип пола"
-	MainTexture "Главная текстура"
+	MainTexture "Основная текстура"
 	NormalTexture "Рельефное отображение"
 	HeightMap "Карта высот"
 	Occlusion "Окклюзия"
